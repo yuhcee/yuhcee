@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Uchenna Egbo
 
-### **Software Engineer • Creator • Mentor**
+### **Software Engineer • Creator • Teacher**
 
 #### *Crafting scalable web apps & sharing knowledge with a passion for AI and Web3*
 

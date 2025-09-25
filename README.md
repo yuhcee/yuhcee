@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I’m a dedicated Full Stack Engineer with over 7 years of experience, driven by a passion for building scalable web applications and mentoring the next generation of developers. My expertise spans React, Node.js, and cloud technologies, with a current focus on mastering Rust, Solana, and AI-driven Web3 solutions.
+I’m an experienced Senior Software Engineer with over 7 years of experience, driven by a passion for building scalable web applications and mentoring the next generation of developers. My expertise spans React, Node.js, and cloud technologies, with a current focus on mastering Rust, Solana, and AI-driven Web3 solutions.
 
 - 🌱 **Currently Learning**: Rust, Solana blockchain, and AI integrations.
 - 💻 **Passions**: Building performant APIs, designing intuitive dashboards, and teaching through code.
@@ -27,12 +27,8 @@ I’m a dedicated Full Stack Engineer with over 7 years of experience, driven by
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=yuhcee&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuhcee&theme=dracula&border=000000" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhcee&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" /></a>
-</div>
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yuhcee&theme=dracula" alt="GitHub Streak" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuhcee&theme=dracula&border=000000" alt="GitHub Streak" /></a>
 </div>
 
 <p align="center">
